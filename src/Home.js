@@ -9,7 +9,7 @@ import {
   Modal,
   Picker,
   WebView,
-  TextInput
+   TextInput
 } from "react-native";
 
 export default class FirstPageComponent extends Component {
